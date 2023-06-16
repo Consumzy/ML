@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Alpukat_67_jpg.rf.eacfbff04a3e65e6488f1abf706fe333.jpg</filename>
+	<path>Alpukat_67_jpg.rf.eacfbff04a3e65e6488f1abf706fe333.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>100</xmin>
+			<xmax>571</xmax>
+			<ymin>94</ymin>
+			<ymax>507</ymax>
+		</bndbox>
+	</object>
+</annotation>

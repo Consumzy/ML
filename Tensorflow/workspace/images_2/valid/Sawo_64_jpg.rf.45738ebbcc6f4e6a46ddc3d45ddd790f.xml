@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Sawo_64_jpg.rf.45738ebbcc6f4e6a46ddc3d45ddd790f.jpg</filename>
+	<path>Sawo_64_jpg.rf.45738ebbcc6f4e6a46ddc3d45ddd790f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>80</xmin>
+			<xmax>475</xmax>
+			<ymin>165</ymin>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

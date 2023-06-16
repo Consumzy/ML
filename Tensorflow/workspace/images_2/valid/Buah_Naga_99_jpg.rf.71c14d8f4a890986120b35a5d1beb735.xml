@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Buah_Naga_99_jpg.rf.71c14d8f4a890986120b35a5d1beb735.jpg</filename>
+	<path>Buah_Naga_99_jpg.rf.71c14d8f4a890986120b35a5d1beb735.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>89</xmin>
+			<xmax>616</xmax>
+			<ymin>3</ymin>
+			<ymax>625</ymax>
+		</bndbox>
+	</object>
+</annotation>

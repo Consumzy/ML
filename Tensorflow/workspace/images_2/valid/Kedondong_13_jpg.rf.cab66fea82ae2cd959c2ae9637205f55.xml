@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Kedondong_13_jpg.rf.cab66fea82ae2cd959c2ae9637205f55.jpg</filename>
+	<path>Kedondong_13_jpg.rf.cab66fea82ae2cd959c2ae9637205f55.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>77</xmin>
+			<xmax>519</xmax>
+			<ymin>121</ymin>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>

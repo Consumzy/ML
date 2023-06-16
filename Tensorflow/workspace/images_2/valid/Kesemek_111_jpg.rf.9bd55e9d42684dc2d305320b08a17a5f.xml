@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Kesemek_111_jpg.rf.9bd55e9d42684dc2d305320b08a17a5f.jpg</filename>
+	<path>Kesemek_111_jpg.rf.9bd55e9d42684dc2d305320b08a17a5f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>105</xmin>
+			<xmax>540</xmax>
+			<ymin>73</ymin>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+</annotation>

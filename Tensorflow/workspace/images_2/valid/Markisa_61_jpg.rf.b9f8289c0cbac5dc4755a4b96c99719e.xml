@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Markisa_61_jpg.rf.b9f8289c0cbac5dc4755a4b96c99719e.jpg</filename>
+	<path>Markisa_61_jpg.rf.b9f8289c0cbac5dc4755a4b96c99719e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>33</xmin>
+			<xmax>587</xmax>
+			<ymin>70</ymin>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Manggis_61_jpg.rf.8a3303081b53d1a5e4166f46413b313e.jpg</filename>
+	<path>Manggis_61_jpg.rf.8a3303081b53d1a5e4166f46413b313e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>214</xmin>
+			<xmax>495</xmax>
+			<ymin>185</ymin>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>
